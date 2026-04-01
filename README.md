@@ -67,7 +67,7 @@ Assim como em Valorant, minha abordagem combina disciplina naval com excelência
 - 🪖 **Militar da Marinha do Brasil** - Disciplina, honra e excelência
 - 💻 **Técnico em Informática** - Conhecimento profundo de sistemas
 - 🎮 **Dev** - Estratégia, precisão e inovação
-- 🌊 **Navegador Digital** - Sempre em busca de novos mares de conhecimento
+- 🌊 **Navegador Digital** - Sempre em busca de novo conhecimento
 
 ---
 
