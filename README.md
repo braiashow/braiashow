@@ -8,6 +8,8 @@
   <img width="12" />
 </div>
 
+
+
 *"Navegando pelos mares do código com precisão naval."*
 
 ## 🌊 **Bem-vindo ao Navio Insígnia**
