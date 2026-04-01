@@ -84,11 +84,11 @@ Assim como em Valorant, minha abordagem combina disciplina naval com excelência
 ## 📊 **Estatísticas da Carreira**
 
 ```
-Experiência Naval:     ████████░░ Elevada
-Expertise Técnica:     █████████░ Avançada
-Paixão por Coding:     ██████████ Extrema
+Experiência Naval:         ████████   Elevada
+Expertise Técnica:         █████████ Avançada
+Paixão por Coding:         ██████████ Extrema
 Capacidade de Aprendizado: ██████████ Excepcional
-Trabalho em Equipe:    ██████████ Sem compromisso
+Trabalho em Equipe:        ██████████ Sem compromisso
 ```
 
 ---
