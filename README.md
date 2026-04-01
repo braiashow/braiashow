@@ -75,7 +75,7 @@ Assim como em Valorant, minha abordagem combina disciplina naval com excelência
 
 Encontre-me em:
 - 🔗 GitHub: [@braiashow](https://github.com/braiashow)
-- 🐦 Instagram: [@adsonbshow]
+- 🐦 Instagram <a src "https://www.instagram.com/adsonbshow">   [@adsonbshow] </a>
 - 📧 Email: braiashow@gmail.com
 
 **Marinha do Brasil 🇧🇷 | Desenvolvimento Tecnológico | Operações Táticas**
