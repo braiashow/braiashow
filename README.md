@@ -37,16 +37,6 @@ Sou um desenvolvedor com DNA naval, combinando a disciplina e excelência da **M
 - 🔐 **DevOps:** Git, Docker, Linux, CI/CD
 - 📱 **Mobile:** Flutter, React Native
 
-### Competências Operacionais
-- ✅ Desenvolvimento Full Stack
-- ✅ Análise e resolução de problemas críticos
-- ✅ Administração e segurança de sistemas
-- ✅ Trabalho sob pressão com excelência
-- ✅ Liderança técnica e mentoría
-- ✅ Documentação precisa e código limpo
-
----
-
 ## 🎯 **Operações em Andamento**
 
 Atualmente trabalhando em:
@@ -78,29 +68,6 @@ Assim como em Valorant, minha abordagem combina disciplina naval com excelência
 - 💻 **Técnico em Informática** - Conhecimento profundo de sistemas
 - 🎮 **Dev** - Estratégia, precisão e inovação
 - 🌊 **Navegador Digital** - Sempre em busca de novos mares de conhecimento
-
----
-
-## 📊 **Estatísticas da Carreira**
-
-```
-Experiência Naval:         ████████   Elevada
-Expertise Técnica:         █████████ Avançada
-Paixão por Coding:         ██████████ Extrema
-Capacidade de Aprendizado: ██████████ Excepcional
-Trabalho em Equipe:        ██████████ Sem compromisso
-```
-
----
-
-## 🤝 **Comunicação Tática**
-
-Sempre aberto para:
-- 🚀 Colaborações em projetos inovadores
-- 💬 Discussões técnicas profundas
-- 📖 Compartilhar conhecimento
-- 🎓 Mentoría e aprendizado
-- 🌐 Novas oportunidades e desafios
 
 ---
 
