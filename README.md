@@ -14,7 +14,7 @@
 
 ## 🌊 **Bem-vindo ao Navio Insígnia**
 
-Sou um desenvolvedor com DNA naval, combinando a disciplina e excelência da **Marinha do Brasil** com paixão genuína por programação. Como técnico de informática e entusiasta de tecnologia, trago a mesma precisão de um operador de missão crítica para cada linha de código que escrevo.
+Sou um desenvolvedor Marinheiro, combinando a disciplina e excelência da **Marinha do Brasil** com paixão genuína por programação. Como técnico de informática e entusiasta de tecnologia.
 
 ```
 ╔════════════════════════════════════════╗
