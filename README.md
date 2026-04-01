@@ -7,9 +7,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
 </div>
-*"Navegando pelos mares do código com precisão naval."*
 
----
+*"Navegando pelos mares do código com precisão naval."*
 
 ## 🌊 **Bem-vindo ao Navio Insígnia**
 
