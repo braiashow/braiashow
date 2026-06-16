@@ -10,13 +10,11 @@
 
 
 
-*"Navegando pelos mares do código com precisão naval."*
-
-## 📡 **Conectar-se com Braiashow**
+*"Navegando pelos códigos."*
 
 Encontre-me em:
 - 🔗 GitHub: [@braiashow](https://github.com/braiashow)
 - 🐦 Instagram @adsonbshow
 - 📧 Email: braiashow@gmail.com
 
-**Marinha do Brasil 🇧🇷 | Desenvolvimento Tecnológico | Operações Táticas**
+**Marinha do Brasil 🇧🇷 | Desenvolvimento Tecnológico |
