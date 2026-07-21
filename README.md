@@ -14,4 +14,4 @@ Encontre-me em:
 - 🐦 Instagram @adsonbshow
 - 📧 Email: braiashow@gmail.com
 
-**Marinha do Brasil 🇧🇷 | Desenvolvimento Tecnológico |
+**Marinha do Brasil 🇧🇷 | Dev |
