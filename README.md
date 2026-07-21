@@ -9,9 +9,6 @@
 </div>
 
 
-
-*"Navegando pelos códigos."*
-
 Encontre-me em:
 - 🔗 GitHub: [@braiashow](https://github.com/braiashow)
 - 🐦 Instagram @adsonbshow
